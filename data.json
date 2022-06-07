@@ -1,0 +1,25 @@
+{
+    "Ayudadores":[
+       {"name":"Roberto Rangel",
+       "email":"betorangel.97@gmail.com",
+       "job_profile":"guapo"
+       },
+      {"name":"Oscar Martinez",
+       "email":"oscar.martinezl@udem.edu",
+       "job_profile":"guapo"
+       },
+       {"name":"Luis Mata",
+       "email":"",
+       "job_profile":"guapo"
+       }  
+    ],
+
+    "Ayudados":[
+        "Humberto Suazo",
+        "Aldo De Nigris",
+        "Nery Cardozo",
+        "Luis Perez",
+        "Walter Ayovi",
+        "Jose Maria Basanta"
+    ]
+}
