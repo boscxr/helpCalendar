@@ -1,17 +1,8 @@
 {
     "Ayudadores":[
-       {"name":"Roberto Rangel",
-       "email":"betorangel.97@gmail.com",
-       "job_profile":"guapo"
-       },
-      {"name":"Oscar Martinez",
-       "email":"oscar.martinezl@udem.edu",
-       "job_profile":"guapo"
-       },
-       {"name":"Luis Mata",
-       "email":"",
-       "job_profile":"guapo"
-       }  
+        "Roberto Rangel",
+        "Oscar Martinez",
+        "Luis Mata"
     ],
 
     "Ayudados":[
